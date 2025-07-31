@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aiman!
+# 👋 Hi, I'm Shahzadi!
 
 🌷 I'm a Computer Science student at Brooklyn College and a Break Through Tech AI Fellow at Cornell Tech.  
 I'm passionate about using software engineering and machine learning to solve real-world problems — especially those that create social impact.
