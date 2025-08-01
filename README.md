@@ -3,7 +3,7 @@
 🌷 I'm a Computer Science student at Brooklyn College and a Break Through Tech AI Fellow at Cornell Tech.  
 I'm passionate about using software engineering and machine learning to solve real-world problems — especially those that create social impact.
 
-🔭 Currently building machine learning models and web apps while deepening my skills in Python, and Java.
+🔭 Currently building machine learning models and web apps while deepening my skills in Python and Java.
 
 ---
 
