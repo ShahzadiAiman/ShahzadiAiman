@@ -27,6 +27,15 @@ Built a logistic regression model to predict whether an Airbnb listing is likely
 
 ---
 
+## 💻 Projects
+
+**LeetMates** — [GitHub Repo](https://github.com/jaren55/LeetMate)  
+A web app that matches LeetCode users with coding partners based on skill level, programming language, and preferred pace.
+
+**Phonebook App** — [GitHub Repo](https://github.com/ShahzadiAiman/phonebook-app)  
+A simple Java console application to manage and look up contacts efficiently.
+
+
 ## 📫 Contact Me
 
 📍 [LinkedIn](https://www.linkedin.com/in/shahzadi-aiman/)  
